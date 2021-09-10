@@ -4,6 +4,6 @@ Projecten om te delen met 6IT:
 
 Dit kan volgende zaken bevatten:
 
-- Interessante codesnippets
+- Interessante codesnippets/methods
 - programma's die we in de klas hebben besproken
-- Modeloplossingen voor delen van sommige) oefeningen 
+- Modeloplossingen voor onderdelen van sommige oefeningen 
